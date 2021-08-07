@@ -48,7 +48,7 @@ pip install requirements.txt
 
 
 ## 💡0x03 效果展示
-1、2020-2021年提交漏洞的统计饼图：<img src="C:\Users\kracer\AppData\Roaming\Typora\typora-user-images\image-20210805102136882.png" alt="image-20210805102136882" style="zoom:80%;" />
+1、2020-2021年提交漏洞的统计饼图：<img src="imgs\image-20210805102136882.png" alt="image-20210805102136882" style="zoom:80%;" />
 
 2、2020-2021年各大学校漏洞统计：
 
