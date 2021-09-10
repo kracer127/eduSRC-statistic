@@ -25,7 +25,7 @@
 1、所需库安装
 
 ```python
-pip install requirements.txt
+pip3 install requirements.txt
 ```
 
 2、使用
